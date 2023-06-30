@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Topbar.qml</file>
+        <file>Leftbar.qml</file>
+        <file>ContactList.qml</file>
+        <file>Chatview.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/memo.svg</file>
+        <file>images/bookmark.svg</file>
+        <file>images/mention.svg</file>
+        <file>images/more.svg</file>
+        <file>images/pin.svg</file>
+        <file>images/addContact.svg</file>
+        <file>images/quick.png</file>
+        <file>images/allicons.png</file>
+    </qresource>
+    <qresource prefix="/profilepics">
+        <file>images/heal.png</file>
+        <file>images/hhh.png</file>
+        <file>images/bluerock.png</file>
+        <file>images/fire.png</file>
+        <file>images/something.png</file>
+        <file>images/kamran.png</file>
+        <file>images/airplane.png</file>
+        <file>images/bird.png</file>
+        <file>images/lights.png</file>
+        <file>images/man.png</file>
+        <file>images/sky.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/Lato-Black.ttf</file>
+        <file>fonts/Lato-Regular.ttf</file>
+    </qresource>
+</RCC>
